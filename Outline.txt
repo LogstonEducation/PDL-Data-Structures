@@ -1,0 +1,13 @@
+Why are we covering this? 
+
+What are we going to cover?
+- List
+- Stack
+- Queue
+- Bag
+
+Implementations 
+- Array
+- Linked Lists
+
+Graphs
