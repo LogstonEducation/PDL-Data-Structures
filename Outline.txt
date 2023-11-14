@@ -4,10 +4,9 @@ What are we going to cover?
 - List
 - Stack
 - Queue
+- Graphs
 - Bag
 
 Implementations 
 - Array
 - Linked Lists
-
-Graphs
